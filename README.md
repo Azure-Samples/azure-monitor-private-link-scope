@@ -31,7 +31,7 @@ products:
 - azure-app-service-web
 - azure-virtual-machines
 - vs-code
-name: "How to configure Azure Monitor Private Link Scope (AMPLS)"
+name: "Create an Azure Monitor Private Link Scope (AMPLS)"
 description: "This sample shows how to configure an Azure Monitor Private Link Scope (AMPLS) to let an App Service with regional VNET integration to connect privately to Azure Monitor."
 urlFragment: "azure-monitor-private-link-scope"
 azureDeploy: "https://raw.githubusercontent.com/Azure-Samples/azure-monitor-private-link-scope/main/templates/azuredeploy.json"
