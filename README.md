@@ -10,12 +10,12 @@ languages:
 products:
 - azure
 - aspnet-core
-- dotnet-core
+- dotnet
 - ef-core
 - azure-storage
 - azure-monitor
 - azure-log-analytics
-- azure-application-insights
+- azure-monitor
 - azure-blob-storage
 - azure-storage-accounts
 - azure-bastion
@@ -26,9 +26,7 @@ products:
 - azure-key-vault
 - azure-sql-database
 - azure-cache-redis
-- azure-web-apps
 - azure-app-service
-- azure-app-service-web
 - azure-virtual-machines
 - vs-code
 name: "Use Azure Monitor Private Link Scope (AMPLS)"
